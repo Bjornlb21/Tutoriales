@@ -3,6 +3,7 @@
 Instalar Modo Oscuro:
 
 Archivos: 
+
 1: https://drive.google.com/file/d/1NOIPKJ0eQACPAYGjgpLzhoHVnHPvoEjd/view?usp=share_link
 
 2: https://drive.google.com/file/d/184n4Z7UxwZWfdRPDb9uk2z9a_bWkSfH7/view?usp=share_link
