@@ -1,4 +1,4 @@
-# Tutoriales.
+# Tutorial 1.
 
 Instalar Modo Oscuro:
 
